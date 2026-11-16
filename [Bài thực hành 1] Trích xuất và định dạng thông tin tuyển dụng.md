@@ -14,11 +14,11 @@ Lưu ý bắt buộc:
 \- Chỉ xuất ra đúng bảng Markdown và đoạn mã JSON, tuyệt đối không viết thêm lời chào hay giải thích gì ở đầu và cuối
 Dưới đây là 2 ví dụ mẫu để bạn làm theo:  
 Ví dụ 1:  
-Email đầu vào:"Chào anh chị HR, em là phạm minh tuấn. Em mới tốt nghiệp và muốn ứng tuyển vị trí Frontend Developer. Em biết dùng ReactJS, HTML, CSS và có làm qua ReactJS ở đồ án. SĐT của em là 06767676767, mail: tuan@gmail.com."  
+Email đầu vào:"Chào anh chị HR, em là phạm minh tuấn.Em mới tốt nghiệp và muốn ứng tuyển vị trí Phó Giám Đốc. Em biết dùng VScode và Gehihi. SĐT của em là 06767676767, mail: tuan@gmail.com."  
 Kết quả đầu ra:  
 \| Họ tên \| Số điện thoại \| Email \| Vị trí ứng tuyển \| Năm kinh nghiệm \| Kỹ năng chính \|  
 \| :--- \| :--- \| :--- \| :--- \| :--- \| :--- \|  
-\| Phạm Minh Tuấn \| \+846767676767 \| tuan@gmail.com \| Frontend Developer \| 0 \| ReactJS, HTML, CSS \|
+\| Phạm Minh Tuấn \| \+846767676767 \| tuan@gmail.com \| Phó Giám Đốc \| 0 \| nói chuyện với AI \|
 
 \`\`\`json  
 \[  
@@ -26,8 +26,8 @@ Kết quả đầu ra:
     "name": "Phạm Minh Tuấn",  
     "phone": "+846767676767",  
     "email": "tuan@gmail.com",  
-    "position": "Frontend Developer",  
+    "position": "Phó Giám Đốc",  
     "experience\_years": 0,  
-    "skills": \["ReactJS", "HTML", "CSS"\]  
+    "skills": \["nói chuyện với AI"\]  
   }  
 \]
