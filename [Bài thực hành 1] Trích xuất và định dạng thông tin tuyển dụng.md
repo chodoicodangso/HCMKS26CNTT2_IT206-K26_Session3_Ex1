@@ -14,7 +14,7 @@ Lưu ý bắt buộc:
 \- Chỉ xuất ra đúng bảng Markdown và đoạn mã JSON, tuyệt đối không viết thêm lời chào hay giải thích gì ở đầu và cuối.  
 Dưới đây là 2 ví dụ mẫu để bạn làm theo:  
 Ví dụ 1:  
-Email đầu vào:"Chào anh chị HR, em là phạm minh tuấn. Em mới tốt nghiệp và muốn ứng tuyển vị trí Frontend Developer. Em biết dùng ReactJS, HTML, CSS và có làm qua ReactJS ở đồ án. SĐT của em là 0987.654.321, mail: tuanpm.dev@gmail.com."  
+Email đầu vào:"Chào anh chị HR, em là phạm minh tuấn. Em mới tốt nghiệp và muốn ứng tuyển vị trí Frontend Developer. Em biết dùng ReactJS, HTML, CSS và có làm qua ReactJS ở đồ án. SĐT của em là 06767676767, mail: tuan@gmail.com."  
 Kết quả đầu ra:  
 \| Họ tên \| Số điện thoại \| Email \| Vị trí ứng tuyển \| Năm kinh nghiệm \| Kỹ năng chính \|  
 \| :--- \| :--- \| :--- \| :--- \| :--- \| :--- \|  
