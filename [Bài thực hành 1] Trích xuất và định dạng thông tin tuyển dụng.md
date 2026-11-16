@@ -18,13 +18,13 @@ Email đầu vào:"Chào anh chị HR, em là phạm minh tuấn. Em mới tốt
 Kết quả đầu ra:  
 \| Họ tên \| Số điện thoại \| Email \| Vị trí ứng tuyển \| Năm kinh nghiệm \| Kỹ năng chính \|  
 \| :--- \| :--- \| :--- \| :--- \| :--- \| :--- \|  
-\| Phạm Minh Tuấn \| \+6767676767 \| tuan@gmail.com \| Frontend Developer \| 0 \| ReactJS, HTML, CSS \|
+\| Phạm Minh Tuấn \| \+846767676767 \| tuan@gmail.com \| Frontend Developer \| 0 \| ReactJS, HTML, CSS \|
 
 \`\`\`json  
 \[  
   {  
     "name": "Phạm Minh Tuấn",  
-    "phone": "+6767676767",  
+    "phone": "+846767676767",  
     "email": "tuan@gmail.com",  
     "position": "Frontend Developer",  
     "experience\_years": 0,  
