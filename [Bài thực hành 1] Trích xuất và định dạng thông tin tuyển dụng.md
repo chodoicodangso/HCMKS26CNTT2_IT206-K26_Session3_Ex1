@@ -13,7 +13,7 @@ Lưu ý bắt buộc:
 \- Nếu thiếu thông tin nào thì để giá trị là null trong JSON và ghi "Không có" trong bảng (riêng kỹ năng nếu không có thì để mảng rỗng)
 \- Chỉ xuất ra đúng bảng Markdown và đoạn mã JSON, tuyệt đối không viết thêm lời chào hay giải thích gì ở đầu và cuối
 Dưới đây là 2 ví dụ mẫu để bạn làm theo:  
-Ví dụ 1:  
+Ví dụ:  
 Email đầu vào:"Chào anh chị HR, em là phạm minh tuấn.Em mới tốt nghiệp và muốn ứng tuyển vị trí Phó Giám Đốc. Em biết dùng VScode và Gehihi. SĐT của em là 06767676767, mail: tuan@gmail.com."  
 Kết quả đầu ra:  
 \| Họ tên \| Số điện thoại \| Email \| Vị trí ứng tuyển \| Năm kinh nghiệm \| Kỹ năng chính \|  
